@@ -1,11 +1,11 @@
-import './App.css'
+import { Header } from "./components";
 
 const App = () => {
   return (
     <div>
-      verer
+      <Header />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
