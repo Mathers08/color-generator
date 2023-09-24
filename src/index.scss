@@ -10,13 +10,14 @@
 body {
   width: 100%;
   height: calc(100vh - 30px);
-  margin: 25px 75px 0;
+  margin: 25px 90px 0;
   overflow: hidden;
   background-color: #353535;
   color: #fff;
 }
 
 button {
+  cursor: pointer;
   border: none;
   outline: none;
 }
